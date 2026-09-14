@@ -12,6 +12,7 @@ public class Main {
 
     static void D(Coffee coffee){
         coffee.drink();
+        //수정 사항
     }
 
     public static void main(String[] args) {
